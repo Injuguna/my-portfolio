@@ -1,0 +1,55 @@
+.jumbotron{
+    height: 600px;
+    width:1400px;
+    margin-bottom: 0px;
+    background-image: url(../img/izop.jpg);
+    background-position: no-repeat;
+    background-size:cover;  
+}
+#firstp{
+ size:45px;   
+ color: white;   
+ text-align: center;
+ display: block;
+ margin-top:250px;
+ font-size:30px;
+}
+#secondp{
+    text-align: center;
+    display: block;
+    margin-top:85px;
+    font-size:40px;
+    color: whitesmoke;
+}
+#firstc{
+    height: 300px;
+    width:1400px;
+    background-color:cornflowerblue; 
+}
+#swag{
+    height:200;
+    width: 1400;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-image: url(../img/ipman.jpg);
+    background-position: fixed;
+    background-size: cover;
+}
+#portfolio{
+    height: 200px;
+    width: 1400px;
+    background: #eee;
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 0px;  
+}
+h1{
+    text-align: center;
+    margin-top:145px;
+}
+h2{
+    text-align: center;
+    margin-top: 100px;
+    size:100px;
+    color:whitesmoke;
+}
